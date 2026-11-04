@@ -252,7 +252,9 @@
     "OPT-IN",
     "{minutes} min",
     "1 min/s",
-    "Status"
+    "Status",
+    "SOLUNAR",
+    "Solunar"
   ],
   "es": [
     "1 min/s",
@@ -417,7 +419,11 @@
     "NORAD: {id}",
     "Regional",
     "{datasets} · {tiles} · {packs}",
-    "VIRTUAL"
+    "VIRTUAL",
+    "SOLUNAR",
+    "Solunar",
+    "12 h",
+    "24 h"
   ],
   "fr": [
     "1 min/s",
@@ -641,7 +647,9 @@
     "Orthophoto",
     "Oblique",
     "Type",
-    "{range} NM"
+    "{range} NM",
+    "12 h",
+    "24 h"
   ],
   "it": [
     "1 min/s",
@@ -848,7 +856,9 @@
     "NORAD: {id}",
     "DATASET",
     "{count} datasets",
-    "ZOOM"
+    "ZOOM",
+    "12 h",
+    "24 h"
   ],
   "ja": [
     "1090 MHz",
@@ -1079,7 +1089,11 @@
     "MMSI: {id}",
     "NORAD: {id}",
     "Regional",
-    "VIRTUAL"
+    "VIRTUAL",
+    "SOLUNAR",
+    "Solunar",
+    "12 h",
+    "24 h"
   ],
   "ru": [
     "1900–1945",
