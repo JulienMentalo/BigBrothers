@@ -3629,5 +3629,16 @@
   "Scope opacity": "Scope-opacitet",
   "How dark the scope shades the view outside the keyhole": "Hur mycket scopet mörkar vyn utanför nyckelhålet",
   "Reset to default": "Återställ till standard",
-  "Reset Visual to its defaults: Normal look, HUD, scope, labels and effects": "Återställ Visuellt till standard: Normal stil, HUD, scope, etiketter och effekter"
+  "Reset Visual to its defaults: Normal look, HUD, scope, labels and effects": "Återställ Visuellt till standard: Normal stil, HUD, scope, etiketter och effekter",
+  "Detail limited; some records not shown": "Begränsad detaljnivå; vissa poster visas inte",
+  "Water well record": "Brunnspost",
+  "U.S. Groundwater Wells": "Grundvattenbrunnar i USA",
+  "Water Wells": "Vattenbrunnar",
+  "Visible source records": "Synliga källposter",
+  "Use Arrow keys to move between source records, Home or End to jump, and Enter to inspect.": "Använd piltangenterna för att flytta mellan källposter, Home eller End för att hoppa och Enter för att granska.",
+  "{record} · Enter: inspect record · Arrow keys: move": "{record} · Enter: granska post · Piltangenter: flytta",
+  "Source records at this location": "Källposter på den här platsen",
+  "These records may describe the same physical well. Choose a source record.": "De här posterna kan beskriva samma fysiska brunn. Välj en källpost.",
+  "Source record": "Källpost",
+  "View record": "Visa post"
 }
