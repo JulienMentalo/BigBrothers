@@ -3981,5 +3981,19 @@
   "Search layers…": "ابحث في الطبقات…",
   "Layer groups": "مجموعات الطبقات",
   "Jump to {name}": "الانتقال إلى {name}",
-  "No layers match": "لا توجد طبقات مطابقة"
+  "No layers match": "لا توجد طبقات مطابقة",
+  "Zoom in to a region to load river gauges": "قرّب إلى منطقة لتحميل محطات قياس الأنهار",
+  "Water": "المياه",
+  "USGS Springs": "USGS: الينابيع",
+  "USGS Lakes & Reservoirs": "USGS: البحيرات والخزانات",
+  "USGS Rivers & Streams": "USGS: الأنهار والجداول",
+  "Discharge": "التصريف",
+  "USGS Water Data · refreshed hourly": "بيانات المياه من USGS · تُحدَّث كل ساعة",
+  "as of {time}": "عند {time}",
+  "Gage height": "ارتفاع المقياس",
+  "Lake elevation above NGVD29": "ارتفاع البحيرة فوق NGVD29",
+  "Reading": "القراءة",
+  "Lake elevation above NAVD88": "ارتفاع البحيرة فوق NAVD88",
+  "Lake/reservoir stage": "منسوب البحيرة/الخزان",
+  "No current reading": "لا توجد قراءة حالية"
 }
